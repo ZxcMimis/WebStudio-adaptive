@@ -474,7 +474,7 @@ input {
 .advantage__item::before {
   display: block;
   content: "";
-  background-image: url(../../img/antenna.png);
+  background-image: url(../img/antenna.png);
   background-size: 70px;
   background-repeat: no-repeat;
   background-position: center;
@@ -485,13 +485,13 @@ input {
   margin-bottom: 30px;
 }
 .advantage__item:nth-child(2)::before {
-  background-image: url(../../img/clock.png);
+  background-image: url(../img/clock.png);
 }
 .advantage__item:nth-child(3)::before {
-  background-image: url(../../img/diagram.png);
+  background-image: url(../img/diagram.png);
 }
 .advantage__item:nth-child(4)::before {
-  background-image: url(../../img/astronaut.png);
+  background-image: url(../img/astronaut.png);
 }
 
 @media screen and (min-width: 320px) {

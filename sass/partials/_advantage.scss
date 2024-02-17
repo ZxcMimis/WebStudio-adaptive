@@ -32,7 +32,7 @@
     &__item::before {
         display: block;
         content: "";
-        background-image: url(../../img/antenna.png);
+        background-image: url(../img/antenna.png);
         background-size: 70px;
         background-repeat: no-repeat;
         background-position: center;
@@ -44,15 +44,15 @@
     }
 
     &__item:nth-child(2)::before {
-        background-image: url(../../img/clock.png);
+        background-image: url(../img/clock.png);
     }
 
     &__item:nth-child(3)::before {
-        background-image: url(../../img/diagram.png);
+        background-image: url(../img/diagram.png);
     }
 
     &__item:nth-child(4)::before {
-        background-image: url(../../img/astronaut.png);
+        background-image: url(../img/astronaut.png);
     }
 }
 
